@@ -1,0 +1,8 @@
+{
+  "name": "gh-repo",
+  "issuer": "https://token.actions.githubusercontent.com",
+  "subject": "repo:ramehx/todoapp:ref:refs/heads/main",
+  "audiences": [
+    "api://AzureADTokenExchange"
+  ]
+}
